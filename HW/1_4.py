@@ -12,4 +12,4 @@ elif quarter == 3:
 elif quarter == 4:
     print("x > 0, y < 0")
 else:
-    print("Ошибка, неверное число1")
+    print("нет такой четверти")
