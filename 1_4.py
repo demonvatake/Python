@@ -8,3 +8,5 @@ if sec_num != 0:
     print(int(sec_num))
 else:
     print("No")
+#n = input('Input number: ')
+#print(n.split(',')[1][0])
